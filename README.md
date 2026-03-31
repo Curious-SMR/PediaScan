@@ -1,6 +1,6 @@
-# 🏥 PediaScan - AI-Powered Pediatric Assessment System
+# PediaScan - AI-Powered Pediatric Assessment System
 
-## 📋 Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Technology Stack](#technology-stack)
@@ -17,23 +17,23 @@
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 **PediaScan** is an AI-powered web application designed to assist healthcare providers and parents in assessing pediatric dehydration risk through cry pattern analysis and symptom evaluation. The system combines audio signal processing with clinical questionnaires to provide preliminary assessments.
 
-### ⚠️ Medical Disclaimer
+### ⚠️Medical Disclaimer
 This tool is for informational purposes only and does NOT replace professional medical diagnosis. Always consult a qualified pediatrician for health concerns.
 
 ---
 
-## ✨ Features
+## Features
 
 ### Core Functionality
-- 👶 **Patient Profile Management** - Record basic patient information
-- 🎤 **Cry Audio Recording** - Capture and analyze baby cry patterns
-- 📋 **Clinical Questionnaire** - Comprehensive symptom assessment
-- 📊 **Risk Analysis** - AI-powered dehydration risk evaluation
-- 📄 **PDF Reports** - Downloadable assessment reports
+-  **Patient Profile Management** - Record basic patient information
+-  **Cry Audio Recording** - Capture and analyze baby cry patterns
+-  **Clinical Questionnaire** - Comprehensive symptom assessment
+-  **Risk Analysis** - AI-powered dehydration risk evaluation
+-  **PDF Reports** - Downloadable assessment reports
 
 ### Technical Features
 - Real-time audio recording and processing
@@ -44,7 +44,7 @@ This tool is for informational purposes only and does NOT replace professional m
 
 ---
 
-## 🛠 Technology Stack
+## Technology Stack
 
 ### Frontend Technologies
 
@@ -143,7 +143,7 @@ pedi-cry-sense/
 
 ---
 
-## 🚀 Installation Guide
+##  Installation Guide
 
 ### Prerequisites
 - **Node.js** (v18.0.0 or higher)
@@ -186,7 +186,7 @@ npm install
 
 ---
 
-## 💻 Usage Instructions
+##  Usage Instructions
 
 ### Running the Application
 
@@ -233,7 +233,7 @@ The frontend will be available at `http://localhost:5173`
 
 ---
 
-## 🧩 Component Documentation
+##  Component Documentation
 
 ### 1. **App.jsx** - Main Application Component
 
@@ -665,7 +665,7 @@ def analyze_cry_audio(audio_file):
 
 ---
 
-## 🎨 Design Principles
+##  Design Principles
 
 ### Medical Theme Implementation
 
@@ -694,7 +694,7 @@ def analyze_cry_audio(audio_file):
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 ### Production Build
 
@@ -736,7 +736,7 @@ DEBUG=False
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -778,7 +778,7 @@ Solution:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 ### Development Workflow
 
@@ -804,11 +804,10 @@ Solution:
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - React team for the amazing framework
 - FastAPI for the modern Python backend
 - Librosa for audio analysis capabilities
-- Medical professionals who provided guidance
 
 ---
