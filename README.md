@@ -21,6 +21,8 @@
 
 **PediaScan** is an AI-powered web application designed to assist healthcare providers and parents in assessing pediatric dehydration risk through cry pattern analysis and symptom evaluation. The system combines audio signal processing with clinical questionnaires to provide preliminary assessments.
 
+ **⚠️ Note:** This project was developed as a hackathon prototype. It demonstrates complex API integrations and real-time AI data processing built under strict time constraints!
+
 ### ⚠️Medical Disclaimer
 This tool is for informational purposes only and does NOT replace professional medical diagnosis. Always consult a qualified pediatrician for health concerns.
 
